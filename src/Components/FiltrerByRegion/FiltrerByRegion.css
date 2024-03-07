@@ -1,0 +1,21 @@
+.filter-by-region {
+    display: flex; 
+    align-items: center; 
+    margin-bottom: 1rem; 
+    font-family: Arial, sans-serif; 
+  }
+  
+  .filter-by-region label {
+    font-size: 0.8rem; 
+    color: #333; 
+    margin-right: 0.6rem; 
+  }
+  
+  .filter-by-region select {
+    border: 1px solid #ccc; 
+    border-radius: 0.3rem; 
+    padding: 5px; 
+    font-size: 0.9rem;
+    color: #333;
+  }
+  
